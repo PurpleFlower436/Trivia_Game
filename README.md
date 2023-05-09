@@ -5,3 +5,4 @@ Once the users pick their category and difficulty level, they will play through 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/PurpleFlower436/Trivia_Smackdown)
+![GitHub last commit](https://img.shields.io/github/last-commit/PurpleFlower436/Trivia_Smackdown)
